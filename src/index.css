@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Light";
+    src: local("hinted-CheyenneSans-Light.ttf"),
+    url("./fonts/hinted-CheyenneSans-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "ExtraLight";
+    src: local("hinted-CheyenneSans-ExtraLight.ttf"),
+    url("./fonts/hinted-CheyenneSans-ExtraLight.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SemiBold";
+    src: local("hinted-CheyenneSans-SemiBold.ttf"),
+    url("./fonts/hinted-CheyenneSans-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Medium";
+    src: local("hinted-CheyenneSans-Medium.ttf"),
+    url("./fonts/hinted-CheyenneSans-Medium.ttf") format("truetype");
+}
+
+body {
+    background-color: #ecedef;
+}
